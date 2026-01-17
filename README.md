@@ -2,6 +2,8 @@
 
 A simple and customizable Plasma widget that provides a configurable button to launch applications.
 
+## Example Usage
+
 ![Example](example.png)
 
 ## Installation
