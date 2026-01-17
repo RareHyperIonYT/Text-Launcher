@@ -2,6 +2,8 @@
 
 A simple and customizable Plasma widget that provides a configurable button to launch applications.
 
+![Example](example.png)
+
 ## Installation
 
 1. Copy the widget files to your Plasma widgets directory:
